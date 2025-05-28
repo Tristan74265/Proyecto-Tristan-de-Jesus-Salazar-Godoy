@@ -1,5 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
-a, a ,a ,a, a {
+.link{
+    background-color: rgb(0, 0, 54);
+}
+a, a ,a {
     padding: 30px;
+    margin: auto;
     
+}
+table{
+    border-color: black;
+    background-color: rgb(77, 138, 192);
+    margin: auto;
+    width: 800px;
+    height: 50px;
+}
+
+input{
+width: 50%;
+height: 20%;
+padding: 4px;
+margin-bottom: 7px;
+border-radius: 6px;
+border: 2px solid black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+}
+form{
+   width: 800px ;
+   height: 300px;
+    background-color: rgb(77, 138, 192);
+    padding: 70px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 30px;
+    border: 10px solid black;
 }
